@@ -4,3 +4,4 @@ Benvinguda a la branca01 Sergio Gimeno
 Benvinguda a la branca02 Sergio Gimeno
 Modificació 02 Main Sergio Gimeno
 Afegim imatge a branca01 Sergio Gimeno
+Afegim imatge a branca02 Sergio Gimeno
